@@ -12,6 +12,8 @@ I still need to do a few things such as
 
 If you want to use this then you are accepting the fact that you will have ~72,625 items wishlisted and may never be able to get rid of them. I am not responsible if you get your steam account banned or timeout.
 
+I am unfamiliar with JavaScript. All the code written is from my understanding of programming and reviewing other people's code. Heavy influence from [auto-steam-queue](https://github.com/3xz/auto-steam-queue). Many thanks!
+
 ### Now to the fun stuff ###
 
 Make sure you do the following
