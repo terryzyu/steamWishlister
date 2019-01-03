@@ -17,12 +17,13 @@ If you want to use this then you are accepting the fact that you will have ~72,6
 Make sure you do the following
 * Disable the wishlist email under [email preferences](https://store.steampowered.com/account/emailoptout)
 	+ Unless you want hourly email spam
-* Set your profile to private under [privary settings](https://steamcommunity.com/id/me/edit/settings)
+* Set your profile to private under [privacy settings](https://steamcommunity.com/id/me/edit/settings)
 	+ This prevents spamming the activity feed with the "Added to wishlist" message
 * Disable "Content Security Policy". MAKE SURE TO REVERT THIS CHANGE WHEN DONE
 	+ Chrome: [This addon works well.](https://chrome.google.com/webstore/detail/disable-content-security/ieelmcmcagommplceebfedjlakkhpden?hl=en) Install and enable it.
 	+ Firefox: Type in "about:config" to the address bar. Search for "security.csp.enable" and set it to false
-	...I HIGHLY SUGGEST YOU USE AN ENTIRELY DIFFERENT BROWSER such as [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
+
+	   I HIGHLY SUGGEST YOU USE AN ENTIRELY DIFFERENT BROWSER such as [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
 
 ### How to use ###
 In either browser you can use the console and copy paste the code on any page beginning with store.steampowered.com
