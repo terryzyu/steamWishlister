@@ -22,7 +22,6 @@ Make sure you do the following
 * Disable "Content Security Policy". MAKE SURE TO REVERT THIS CHANGE WHEN DONE
 	+ Chrome: [This addon works well.](https://chrome.google.com/webstore/detail/disable-content-security/ieelmcmcagommplceebfedjlakkhpden?hl=en) Install and enable it.
 	+ Firefox: Type in "about:config" to the address bar. Search for "security.csp.enable" and set it to false
-
 	   I HIGHLY SUGGEST YOU USE AN ENTIRELY DIFFERENT BROWSER such as [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
 
 ### How to use ###
