@@ -2,7 +2,7 @@
 
 This script will add all items to your wishlist on Steam. This supposedly includes free-to-play, DLC, movies, and other media.
 
-### WARNING! ###
+## WARNING! ##
 
 I still need to do a few things such as
 
@@ -14,7 +14,7 @@ If you want to use this then you are accepting the fact that you will have ~72,6
 
 I am unfamiliar with JavaScript. All the code written is from my understanding of programming and reviewing other people's code. Heavy influence from [auto-steam-queue](https://github.com/3xz/auto-steam-queue). Many thanks!
 
-### Now to the fun stuff ###
+## Now to the fun stuff ##
 
 Make sure you do the following
 * Disable the wishlist email under [email preferences](https://store.steampowered.com/account/emailoptout)
@@ -27,7 +27,7 @@ Make sure you do the following
 
 	   I HIGHLY SUGGEST YOU USE AN ENTIRELY DIFFERENT BROWSER such as [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
 
-### How to use ###
+## How to use ##
 In either browser you can use the console and copy paste the code on any page beginning with store.steampowered.com
 
 You can also install this as a script to TamperMonkey or GreaseMonkey, depending on your browser. The script will run if CSP is disabled and if you're on the wishlist page. It will wishlist any new items added to Steam since the last run through (not yet inplemented). Open the console to see the progress.
